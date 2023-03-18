@@ -1,4 +1,4 @@
-#include <stido.h>
+#include <stdio.h>
 /**
  * main - Entry poin
  * Return: - set to 0 program runs successfully
