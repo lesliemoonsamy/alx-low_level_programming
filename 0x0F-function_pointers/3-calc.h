@@ -1,5 +1,9 @@
 #ifdef CALC_H
 #define CALC_H
+
+#include <stdlib.h>
+#include <stdio.h>
+
 /**
  * struct op - a struct op
  * @op: the operator
@@ -17,4 +21,4 @@ int op_div(int a, int b);
 int op_mod(int a, int b);
 int (*get_op_funct(char *s))(int, int);
 
-#endif
+#endiif /*CALC_H*/
