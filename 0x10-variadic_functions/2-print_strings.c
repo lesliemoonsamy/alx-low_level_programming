@@ -4,7 +4,7 @@
 
 /**
  * print_strings - Prints numbers, followed by a new line
- * @separator: The string to be pribted between numbers
+ * @seperator: The string to be pribted between numbers
  * @n: The number of intergers passed to the function
  * @...: A variable number of numbers to be printed
  *
