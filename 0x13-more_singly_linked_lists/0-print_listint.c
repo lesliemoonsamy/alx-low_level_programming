@@ -1,9 +1,8 @@
 #include "lists.h"
-#include <stdio.h>
 
 /**
- * print_listing - prints all teh elements of a listint_t list
- * @h: Pointer to the head of the list_t list
+ * print_listing - prints all the elements of a linked list
+ * @h: linked list of type list_t to print
  *
  * Return: Number of nodes in the list_t list
  */
